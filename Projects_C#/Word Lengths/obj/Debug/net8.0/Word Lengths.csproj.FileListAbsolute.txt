@@ -1,0 +1,15 @@
+E:\Sirma Academy\Streams and Files\Projects\Word Lengths\bin\Debug\net8.0\Word Lengths.exe
+E:\Sirma Academy\Streams and Files\Projects\Word Lengths\bin\Debug\net8.0\Word Lengths.deps.json
+E:\Sirma Academy\Streams and Files\Projects\Word Lengths\bin\Debug\net8.0\Word Lengths.runtimeconfig.json
+E:\Sirma Academy\Streams and Files\Projects\Word Lengths\bin\Debug\net8.0\Word Lengths.dll
+E:\Sirma Academy\Streams and Files\Projects\Word Lengths\bin\Debug\net8.0\Word Lengths.pdb
+E:\Sirma Academy\Streams and Files\Projects\Word Lengths\obj\Debug\net8.0\Word Lengths.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sirma Academy\Streams and Files\Projects\Word Lengths\obj\Debug\net8.0\Word Lengths.AssemblyInfoInputs.cache
+E:\Sirma Academy\Streams and Files\Projects\Word Lengths\obj\Debug\net8.0\Word Lengths.AssemblyInfo.cs
+E:\Sirma Academy\Streams and Files\Projects\Word Lengths\obj\Debug\net8.0\Word Lengths.csproj.CoreCompileInputs.cache
+E:\Sirma Academy\Streams and Files\Projects\Word Lengths\obj\Debug\net8.0\Word Lengths.sourcelink.json
+E:\Sirma Academy\Streams and Files\Projects\Word Lengths\obj\Debug\net8.0\Word Lengths.dll
+E:\Sirma Academy\Streams and Files\Projects\Word Lengths\obj\Debug\net8.0\refint\Word Lengths.dll
+E:\Sirma Academy\Streams and Files\Projects\Word Lengths\obj\Debug\net8.0\Word Lengths.pdb
+E:\Sirma Academy\Streams and Files\Projects\Word Lengths\obj\Debug\net8.0\Word Lengths.genruntimeconfig.cache
+E:\Sirma Academy\Streams and Files\Projects\Word Lengths\obj\Debug\net8.0\ref\Word Lengths.dll
