@@ -1,0 +1,15 @@
+E:\Sirma Academy\Streams and Files\Projects_C#\Replace Word\bin\Debug\net8.0\Replace Word.exe
+E:\Sirma Academy\Streams and Files\Projects_C#\Replace Word\bin\Debug\net8.0\Replace Word.deps.json
+E:\Sirma Academy\Streams and Files\Projects_C#\Replace Word\bin\Debug\net8.0\Replace Word.runtimeconfig.json
+E:\Sirma Academy\Streams and Files\Projects_C#\Replace Word\bin\Debug\net8.0\Replace Word.dll
+E:\Sirma Academy\Streams and Files\Projects_C#\Replace Word\bin\Debug\net8.0\Replace Word.pdb
+E:\Sirma Academy\Streams and Files\Projects_C#\Replace Word\obj\Debug\net8.0\Replace Word.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sirma Academy\Streams and Files\Projects_C#\Replace Word\obj\Debug\net8.0\Replace Word.AssemblyInfoInputs.cache
+E:\Sirma Academy\Streams and Files\Projects_C#\Replace Word\obj\Debug\net8.0\Replace Word.AssemblyInfo.cs
+E:\Sirma Academy\Streams and Files\Projects_C#\Replace Word\obj\Debug\net8.0\Replace Word.csproj.CoreCompileInputs.cache
+E:\Sirma Academy\Streams and Files\Projects_C#\Replace Word\obj\Debug\net8.0\Replace Word.sourcelink.json
+E:\Sirma Academy\Streams and Files\Projects_C#\Replace Word\obj\Debug\net8.0\Replace Word.dll
+E:\Sirma Academy\Streams and Files\Projects_C#\Replace Word\obj\Debug\net8.0\refint\Replace Word.dll
+E:\Sirma Academy\Streams and Files\Projects_C#\Replace Word\obj\Debug\net8.0\Replace Word.pdb
+E:\Sirma Academy\Streams and Files\Projects_C#\Replace Word\obj\Debug\net8.0\Replace Word.genruntimeconfig.cache
+E:\Sirma Academy\Streams and Files\Projects_C#\Replace Word\obj\Debug\net8.0\ref\Replace Word.dll
