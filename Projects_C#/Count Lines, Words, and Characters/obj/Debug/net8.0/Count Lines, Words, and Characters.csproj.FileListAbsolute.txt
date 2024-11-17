@@ -1,0 +1,15 @@
+E:\Sirma Academy\Streams and Files\Projects_C#\Count Lines, Words, and Characters\bin\Debug\net8.0\Count Lines, Words, and Characters.exe
+E:\Sirma Academy\Streams and Files\Projects_C#\Count Lines, Words, and Characters\bin\Debug\net8.0\Count Lines, Words, and Characters.deps.json
+E:\Sirma Academy\Streams and Files\Projects_C#\Count Lines, Words, and Characters\bin\Debug\net8.0\Count Lines, Words, and Characters.runtimeconfig.json
+E:\Sirma Academy\Streams and Files\Projects_C#\Count Lines, Words, and Characters\bin\Debug\net8.0\Count Lines, Words, and Characters.dll
+E:\Sirma Academy\Streams and Files\Projects_C#\Count Lines, Words, and Characters\bin\Debug\net8.0\Count Lines, Words, and Characters.pdb
+E:\Sirma Academy\Streams and Files\Projects_C#\Count Lines, Words, and Characters\obj\Debug\net8.0\Count Lines, Words, and Characters.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sirma Academy\Streams and Files\Projects_C#\Count Lines, Words, and Characters\obj\Debug\net8.0\Count Lines, Words, and Characters.AssemblyInfoInputs.cache
+E:\Sirma Academy\Streams and Files\Projects_C#\Count Lines, Words, and Characters\obj\Debug\net8.0\Count Lines, Words, and Characters.AssemblyInfo.cs
+E:\Sirma Academy\Streams and Files\Projects_C#\Count Lines, Words, and Characters\obj\Debug\net8.0\Count Lines, Words, and Characters.csproj.CoreCompileInputs.cache
+E:\Sirma Academy\Streams and Files\Projects_C#\Count Lines, Words, and Characters\obj\Debug\net8.0\Count Lines, Words, and Characters.sourcelink.json
+E:\Sirma Academy\Streams and Files\Projects_C#\Count Lines, Words, and Characters\obj\Debug\net8.0\Count Lines, Words, and Characters.dll
+E:\Sirma Academy\Streams and Files\Projects_C#\Count Lines, Words, and Characters\obj\Debug\net8.0\refint\Count Lines, Words, and Characters.dll
+E:\Sirma Academy\Streams and Files\Projects_C#\Count Lines, Words, and Characters\obj\Debug\net8.0\Count Lines, Words, and Characters.pdb
+E:\Sirma Academy\Streams and Files\Projects_C#\Count Lines, Words, and Characters\obj\Debug\net8.0\Count Lines, Words, and Characters.genruntimeconfig.cache
+E:\Sirma Academy\Streams and Files\Projects_C#\Count Lines, Words, and Characters\obj\Debug\net8.0\ref\Count Lines, Words, and Characters.dll
