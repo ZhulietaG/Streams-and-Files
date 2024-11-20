@@ -1,0 +1,15 @@
+E:\Sirma Academy\Streams and Files\Projects_C#\Merge Lines from Two Files\bin\Debug\net8.0\Merge Lines from Two Files.exe
+E:\Sirma Academy\Streams and Files\Projects_C#\Merge Lines from Two Files\bin\Debug\net8.0\Merge Lines from Two Files.deps.json
+E:\Sirma Academy\Streams and Files\Projects_C#\Merge Lines from Two Files\bin\Debug\net8.0\Merge Lines from Two Files.runtimeconfig.json
+E:\Sirma Academy\Streams and Files\Projects_C#\Merge Lines from Two Files\bin\Debug\net8.0\Merge Lines from Two Files.dll
+E:\Sirma Academy\Streams and Files\Projects_C#\Merge Lines from Two Files\bin\Debug\net8.0\Merge Lines from Two Files.pdb
+E:\Sirma Academy\Streams and Files\Projects_C#\Merge Lines from Two Files\obj\Debug\net8.0\Merge Lines from Two Files.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sirma Academy\Streams and Files\Projects_C#\Merge Lines from Two Files\obj\Debug\net8.0\Merge Lines from Two Files.AssemblyInfoInputs.cache
+E:\Sirma Academy\Streams and Files\Projects_C#\Merge Lines from Two Files\obj\Debug\net8.0\Merge Lines from Two Files.AssemblyInfo.cs
+E:\Sirma Academy\Streams and Files\Projects_C#\Merge Lines from Two Files\obj\Debug\net8.0\Merge Lines from Two Files.csproj.CoreCompileInputs.cache
+E:\Sirma Academy\Streams and Files\Projects_C#\Merge Lines from Two Files\obj\Debug\net8.0\Merge Lines from Two Files.sourcelink.json
+E:\Sirma Academy\Streams and Files\Projects_C#\Merge Lines from Two Files\obj\Debug\net8.0\Merge Lines from Two Files.dll
+E:\Sirma Academy\Streams and Files\Projects_C#\Merge Lines from Two Files\obj\Debug\net8.0\refint\Merge Lines from Two Files.dll
+E:\Sirma Academy\Streams and Files\Projects_C#\Merge Lines from Two Files\obj\Debug\net8.0\Merge Lines from Two Files.pdb
+E:\Sirma Academy\Streams and Files\Projects_C#\Merge Lines from Two Files\obj\Debug\net8.0\Merge Lines from Two Files.genruntimeconfig.cache
+E:\Sirma Academy\Streams and Files\Projects_C#\Merge Lines from Two Files\obj\Debug\net8.0\ref\Merge Lines from Two Files.dll
