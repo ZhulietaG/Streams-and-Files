@@ -1,0 +1,15 @@
+E:\Sirma Academy\Streams and Files\Projects_C#\Reverse Lines\bin\Debug\net8.0\Reverse Lines.exe
+E:\Sirma Academy\Streams and Files\Projects_C#\Reverse Lines\bin\Debug\net8.0\Reverse Lines.deps.json
+E:\Sirma Academy\Streams and Files\Projects_C#\Reverse Lines\bin\Debug\net8.0\Reverse Lines.runtimeconfig.json
+E:\Sirma Academy\Streams and Files\Projects_C#\Reverse Lines\bin\Debug\net8.0\Reverse Lines.dll
+E:\Sirma Academy\Streams and Files\Projects_C#\Reverse Lines\bin\Debug\net8.0\Reverse Lines.pdb
+E:\Sirma Academy\Streams and Files\Projects_C#\Reverse Lines\obj\Debug\net8.0\Reverse Lines.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sirma Academy\Streams and Files\Projects_C#\Reverse Lines\obj\Debug\net8.0\Reverse Lines.AssemblyInfoInputs.cache
+E:\Sirma Academy\Streams and Files\Projects_C#\Reverse Lines\obj\Debug\net8.0\Reverse Lines.AssemblyInfo.cs
+E:\Sirma Academy\Streams and Files\Projects_C#\Reverse Lines\obj\Debug\net8.0\Reverse Lines.csproj.CoreCompileInputs.cache
+E:\Sirma Academy\Streams and Files\Projects_C#\Reverse Lines\obj\Debug\net8.0\Reverse Lines.sourcelink.json
+E:\Sirma Academy\Streams and Files\Projects_C#\Reverse Lines\obj\Debug\net8.0\Reverse Lines.dll
+E:\Sirma Academy\Streams and Files\Projects_C#\Reverse Lines\obj\Debug\net8.0\refint\Reverse Lines.dll
+E:\Sirma Academy\Streams and Files\Projects_C#\Reverse Lines\obj\Debug\net8.0\Reverse Lines.pdb
+E:\Sirma Academy\Streams and Files\Projects_C#\Reverse Lines\obj\Debug\net8.0\Reverse Lines.genruntimeconfig.cache
+E:\Sirma Academy\Streams and Files\Projects_C#\Reverse Lines\obj\Debug\net8.0\ref\Reverse Lines.dll
