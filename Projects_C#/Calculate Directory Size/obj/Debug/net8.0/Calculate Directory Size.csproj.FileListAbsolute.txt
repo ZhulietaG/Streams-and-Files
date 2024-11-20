@@ -1,0 +1,15 @@
+E:\Sirma Academy\Streams and Files\Projects_C#\Calculate Directory Size\bin\Debug\net8.0\Calculate Directory Size.exe
+E:\Sirma Academy\Streams and Files\Projects_C#\Calculate Directory Size\bin\Debug\net8.0\Calculate Directory Size.deps.json
+E:\Sirma Academy\Streams and Files\Projects_C#\Calculate Directory Size\bin\Debug\net8.0\Calculate Directory Size.runtimeconfig.json
+E:\Sirma Academy\Streams and Files\Projects_C#\Calculate Directory Size\bin\Debug\net8.0\Calculate Directory Size.dll
+E:\Sirma Academy\Streams and Files\Projects_C#\Calculate Directory Size\bin\Debug\net8.0\Calculate Directory Size.pdb
+E:\Sirma Academy\Streams and Files\Projects_C#\Calculate Directory Size\obj\Debug\net8.0\Calculate Directory Size.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sirma Academy\Streams and Files\Projects_C#\Calculate Directory Size\obj\Debug\net8.0\Calculate Directory Size.AssemblyInfoInputs.cache
+E:\Sirma Academy\Streams and Files\Projects_C#\Calculate Directory Size\obj\Debug\net8.0\Calculate Directory Size.AssemblyInfo.cs
+E:\Sirma Academy\Streams and Files\Projects_C#\Calculate Directory Size\obj\Debug\net8.0\Calculate Directory Size.csproj.CoreCompileInputs.cache
+E:\Sirma Academy\Streams and Files\Projects_C#\Calculate Directory Size\obj\Debug\net8.0\Calculate Directory Size.sourcelink.json
+E:\Sirma Academy\Streams and Files\Projects_C#\Calculate Directory Size\obj\Debug\net8.0\Calculate Directory Size.dll
+E:\Sirma Academy\Streams and Files\Projects_C#\Calculate Directory Size\obj\Debug\net8.0\refint\Calculate Directory Size.dll
+E:\Sirma Academy\Streams and Files\Projects_C#\Calculate Directory Size\obj\Debug\net8.0\Calculate Directory Size.pdb
+E:\Sirma Academy\Streams and Files\Projects_C#\Calculate Directory Size\obj\Debug\net8.0\Calculate Directory Size.genruntimeconfig.cache
+E:\Sirma Academy\Streams and Files\Projects_C#\Calculate Directory Size\obj\Debug\net8.0\ref\Calculate Directory Size.dll

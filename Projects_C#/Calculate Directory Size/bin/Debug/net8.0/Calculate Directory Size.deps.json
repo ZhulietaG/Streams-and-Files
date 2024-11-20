@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Calculate Directory Size/1.0.0": {
+        "runtime": {
+          "Calculate Directory Size.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculate Directory Size/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
