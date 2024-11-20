@@ -1,0 +1,15 @@
+E:\Sirma Academy\Streams and Files\Projects_C#\Copy File Content\bin\Debug\net8.0\Copy File Content.exe
+E:\Sirma Academy\Streams and Files\Projects_C#\Copy File Content\bin\Debug\net8.0\Copy File Content.deps.json
+E:\Sirma Academy\Streams and Files\Projects_C#\Copy File Content\bin\Debug\net8.0\Copy File Content.runtimeconfig.json
+E:\Sirma Academy\Streams and Files\Projects_C#\Copy File Content\bin\Debug\net8.0\Copy File Content.dll
+E:\Sirma Academy\Streams and Files\Projects_C#\Copy File Content\bin\Debug\net8.0\Copy File Content.pdb
+E:\Sirma Academy\Streams and Files\Projects_C#\Copy File Content\obj\Debug\net8.0\Copy File Content.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sirma Academy\Streams and Files\Projects_C#\Copy File Content\obj\Debug\net8.0\Copy File Content.AssemblyInfoInputs.cache
+E:\Sirma Academy\Streams and Files\Projects_C#\Copy File Content\obj\Debug\net8.0\Copy File Content.AssemblyInfo.cs
+E:\Sirma Academy\Streams and Files\Projects_C#\Copy File Content\obj\Debug\net8.0\Copy File Content.csproj.CoreCompileInputs.cache
+E:\Sirma Academy\Streams and Files\Projects_C#\Copy File Content\obj\Debug\net8.0\Copy File Content.sourcelink.json
+E:\Sirma Academy\Streams and Files\Projects_C#\Copy File Content\obj\Debug\net8.0\Copy File Content.dll
+E:\Sirma Academy\Streams and Files\Projects_C#\Copy File Content\obj\Debug\net8.0\refint\Copy File Content.dll
+E:\Sirma Academy\Streams and Files\Projects_C#\Copy File Content\obj\Debug\net8.0\Copy File Content.pdb
+E:\Sirma Academy\Streams and Files\Projects_C#\Copy File Content\obj\Debug\net8.0\Copy File Content.genruntimeconfig.cache
+E:\Sirma Academy\Streams and Files\Projects_C#\Copy File Content\obj\Debug\net8.0\ref\Copy File Content.dll
