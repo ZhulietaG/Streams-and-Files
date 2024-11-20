@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Count Unique Words/1.0.0": {
+        "runtime": {
+          "Count Unique Words.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Count Unique Words/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

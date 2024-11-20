@@ -1,0 +1,15 @@
+E:\Sirma Academy\Streams and Files\Projects_C#\Count Unique Words\bin\Debug\net8.0\Count Unique Words.exe
+E:\Sirma Academy\Streams and Files\Projects_C#\Count Unique Words\bin\Debug\net8.0\Count Unique Words.deps.json
+E:\Sirma Academy\Streams and Files\Projects_C#\Count Unique Words\bin\Debug\net8.0\Count Unique Words.runtimeconfig.json
+E:\Sirma Academy\Streams and Files\Projects_C#\Count Unique Words\bin\Debug\net8.0\Count Unique Words.dll
+E:\Sirma Academy\Streams and Files\Projects_C#\Count Unique Words\bin\Debug\net8.0\Count Unique Words.pdb
+E:\Sirma Academy\Streams and Files\Projects_C#\Count Unique Words\obj\Debug\net8.0\Count Unique Words.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sirma Academy\Streams and Files\Projects_C#\Count Unique Words\obj\Debug\net8.0\Count Unique Words.AssemblyInfoInputs.cache
+E:\Sirma Academy\Streams and Files\Projects_C#\Count Unique Words\obj\Debug\net8.0\Count Unique Words.AssemblyInfo.cs
+E:\Sirma Academy\Streams and Files\Projects_C#\Count Unique Words\obj\Debug\net8.0\Count Unique Words.csproj.CoreCompileInputs.cache
+E:\Sirma Academy\Streams and Files\Projects_C#\Count Unique Words\obj\Debug\net8.0\Count Unique Words.sourcelink.json
+E:\Sirma Academy\Streams and Files\Projects_C#\Count Unique Words\obj\Debug\net8.0\Count Unique Words.dll
+E:\Sirma Academy\Streams and Files\Projects_C#\Count Unique Words\obj\Debug\net8.0\refint\Count Unique Words.dll
+E:\Sirma Academy\Streams and Files\Projects_C#\Count Unique Words\obj\Debug\net8.0\Count Unique Words.pdb
+E:\Sirma Academy\Streams and Files\Projects_C#\Count Unique Words\obj\Debug\net8.0\Count Unique Words.genruntimeconfig.cache
+E:\Sirma Academy\Streams and Files\Projects_C#\Count Unique Words\obj\Debug\net8.0\ref\Count Unique Words.dll
