@@ -1,0 +1,15 @@
+E:\Sirma Academy\Streams and Files\Projects_C#\Extract File\bin\Debug\net8.0\Extract File.exe
+E:\Sirma Academy\Streams and Files\Projects_C#\Extract File\bin\Debug\net8.0\Extract File.deps.json
+E:\Sirma Academy\Streams and Files\Projects_C#\Extract File\bin\Debug\net8.0\Extract File.runtimeconfig.json
+E:\Sirma Academy\Streams and Files\Projects_C#\Extract File\bin\Debug\net8.0\Extract File.dll
+E:\Sirma Academy\Streams and Files\Projects_C#\Extract File\bin\Debug\net8.0\Extract File.pdb
+E:\Sirma Academy\Streams and Files\Projects_C#\Extract File\obj\Debug\net8.0\Extract File.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sirma Academy\Streams and Files\Projects_C#\Extract File\obj\Debug\net8.0\Extract File.AssemblyInfoInputs.cache
+E:\Sirma Academy\Streams and Files\Projects_C#\Extract File\obj\Debug\net8.0\Extract File.AssemblyInfo.cs
+E:\Sirma Academy\Streams and Files\Projects_C#\Extract File\obj\Debug\net8.0\Extract File.csproj.CoreCompileInputs.cache
+E:\Sirma Academy\Streams and Files\Projects_C#\Extract File\obj\Debug\net8.0\Extract File.sourcelink.json
+E:\Sirma Academy\Streams and Files\Projects_C#\Extract File\obj\Debug\net8.0\Extract File.dll
+E:\Sirma Academy\Streams and Files\Projects_C#\Extract File\obj\Debug\net8.0\refint\Extract File.dll
+E:\Sirma Academy\Streams and Files\Projects_C#\Extract File\obj\Debug\net8.0\Extract File.pdb
+E:\Sirma Academy\Streams and Files\Projects_C#\Extract File\obj\Debug\net8.0\Extract File.genruntimeconfig.cache
+E:\Sirma Academy\Streams and Files\Projects_C#\Extract File\obj\Debug\net8.0\ref\Extract File.dll
