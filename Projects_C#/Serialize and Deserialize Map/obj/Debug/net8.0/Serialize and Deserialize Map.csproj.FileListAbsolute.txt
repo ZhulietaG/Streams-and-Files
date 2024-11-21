@@ -1,0 +1,15 @@
+E:\Sirma Academy\Streams and Files\Projects_C#\Serialize and Deserialize Map\obj\Debug\net8.0\Serialize and Deserialize Map.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sirma Academy\Streams and Files\Projects_C#\Serialize and Deserialize Map\obj\Debug\net8.0\Serialize and Deserialize Map.AssemblyInfoInputs.cache
+E:\Sirma Academy\Streams and Files\Projects_C#\Serialize and Deserialize Map\obj\Debug\net8.0\Serialize and Deserialize Map.AssemblyInfo.cs
+E:\Sirma Academy\Streams and Files\Projects_C#\Serialize and Deserialize Map\obj\Debug\net8.0\Serialize and Deserialize Map.csproj.CoreCompileInputs.cache
+E:\Sirma Academy\Streams and Files\Projects_C#\Serialize and Deserialize Map\obj\Debug\net8.0\Serialize and Deserialize Map.sourcelink.json
+E:\Sirma Academy\Streams and Files\Projects_C#\Serialize and Deserialize Map\bin\Debug\net8.0\Serialize and Deserialize Map.exe
+E:\Sirma Academy\Streams and Files\Projects_C#\Serialize and Deserialize Map\bin\Debug\net8.0\Serialize and Deserialize Map.deps.json
+E:\Sirma Academy\Streams and Files\Projects_C#\Serialize and Deserialize Map\bin\Debug\net8.0\Serialize and Deserialize Map.runtimeconfig.json
+E:\Sirma Academy\Streams and Files\Projects_C#\Serialize and Deserialize Map\bin\Debug\net8.0\Serialize and Deserialize Map.dll
+E:\Sirma Academy\Streams and Files\Projects_C#\Serialize and Deserialize Map\bin\Debug\net8.0\Serialize and Deserialize Map.pdb
+E:\Sirma Academy\Streams and Files\Projects_C#\Serialize and Deserialize Map\obj\Debug\net8.0\Serialize and Deserialize Map.dll
+E:\Sirma Academy\Streams and Files\Projects_C#\Serialize and Deserialize Map\obj\Debug\net8.0\refint\Serialize and Deserialize Map.dll
+E:\Sirma Academy\Streams and Files\Projects_C#\Serialize and Deserialize Map\obj\Debug\net8.0\Serialize and Deserialize Map.pdb
+E:\Sirma Academy\Streams and Files\Projects_C#\Serialize and Deserialize Map\obj\Debug\net8.0\Serialize and Deserialize Map.genruntimeconfig.cache
+E:\Sirma Academy\Streams and Files\Projects_C#\Serialize and Deserialize Map\obj\Debug\net8.0\ref\Serialize and Deserialize Map.dll

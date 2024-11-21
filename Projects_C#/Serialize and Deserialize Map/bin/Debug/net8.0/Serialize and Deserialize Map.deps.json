@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Serialize and Deserialize Map/1.0.0": {
+        "runtime": {
+          "Serialize and Deserialize Map.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Serialize and Deserialize Map/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
